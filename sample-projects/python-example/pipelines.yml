@@ -3,7 +3,7 @@ resources:
     type: GitRepo
     configuration:
       gitProvider: my_github
-      path: katcosgrove/devops-101-workshop
+      path: cpanchal1/devops-101-workshop
       branches:
         include: master
   - name: myBuildInfo
